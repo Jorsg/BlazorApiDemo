@@ -1,0 +1,12 @@
+D:\Repos\repos\BlazorApp.Demo\DemoModels\bin\Debug\net6.0\DemoModels.deps.json
+D:\Repos\repos\BlazorApp.Demo\DemoModels\bin\Debug\net6.0\DemoModels.dll
+D:\Repos\repos\BlazorApp.Demo\DemoModels\bin\Debug\net6.0\DemoModels.pdb
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.csproj.AssemblyReference.cache
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfoInputs.cache
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.AssemblyInfo.cs
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.csproj.CoreCompileInputs.cache
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.dll
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\refint\DemoModels.dll
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\DemoModels.pdb
+D:\Repos\repos\BlazorApp.Demo\DemoModels\obj\Debug\net6.0\ref\DemoModels.dll

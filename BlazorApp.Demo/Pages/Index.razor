@@ -1,0 +1,41 @@
+﻿@page "/"
+@using DemoModels.Models
+@using BlazorApp.Demo.Services
+@inject IEmployeeService empleServices
+
+<PageTitle>Index</PageTitle>
+
+<h1>Employee List</h1>
+
+<table >
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in empList.ToList() )
+		{
+			<tr>
+				<td>@item.EmpId</td>
+				<td>@item.Name</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@code{
+	private List<Employee> empList = new List<Employee>();
+
+	protected override async Task OnInitializedAsync()
+	{
+		await GetEmployees();
+	}
+
+	private async Task GetEmployees()
+	{
+		empList = await empleServices.GetEmployees();
+	}
+}
+
